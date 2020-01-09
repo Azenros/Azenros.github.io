@@ -1,6 +1,6 @@
 body {
 	font-family: 'Arimo', sans-serif;
-	margin-left: 25%;
+	margin-left: 15%;
 	background-color:#1c1c1c;
 	color: white;
 }
@@ -11,6 +11,10 @@ body {
 
 .bigImg {
 	width: 20%
+}
+
+#hackuci {
+	width: 13%
 }
 
 h1, h2, h3 {

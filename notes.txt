@@ -1,0 +1,8 @@
+<h1></h1> <h2></h2> etc... <- headers
+<p> </p> <- paragraphs
+<ul> <- unordered list
+<li> </li> <- the actual list
+</ul>
+
+<a href = "https://www.someWebsite.com">Text</a>  <- link
+<img src = "someimage.jpg"> <- image
