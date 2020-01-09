@@ -5,11 +5,11 @@ body {
 	color: white;
 }
 
-smallImg {
+.smallImg {
 	width: 10%
 }
 
-bigImg {
+.bigImg {
 	width: 20%
 }
 
